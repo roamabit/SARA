@@ -20,5 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
+Following https://www.youtube.com/watch?v=e-LyKmA_ROI
 * ...
